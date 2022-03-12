@@ -4,7 +4,7 @@ _PhD Electrical Engineering_, _Bsc Applied and Computational Mathematics_
 ### Current project: **MONAN** at INPE/CPTEC.
 
 Research Interests:
-* Software Engineering
+* Scientific Software Engineering
 * Numerical Analysis and Simulations
 * Apllied Statistic
 
