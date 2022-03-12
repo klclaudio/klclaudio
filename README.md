@@ -1,13 +1,13 @@
 ## Kleucio Claudio  
-_Phd Electrical Engineering_, _Bsc Mathematical Apllied_
+_PhD Electrical Engineering_, _Bsc Applied and Computational Mathematics_
 
-### Current work: **MONAN** at INPE/CPTEC.
+### Current project: **MONAN** at INPE/CPTEC.
 
 Research Interests:
 * Software Engineering
 * Numerical Analysis and Simulations
 * Apllied Statistic
-* Education
+
 
 <!--
 **klclaudio/klclaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
