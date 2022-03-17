@@ -6,7 +6,7 @@ _PhD Electrical Engineering_, _Bsc Applied and Computational Mathematics_
 Interests:
 * Scientific Software Engineering
 * Numerical Analysis and Simulations
-* Apllied Statistic
+* Apllied Statistics
 
 
 <!--
