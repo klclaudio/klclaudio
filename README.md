@@ -1,7 +1,7 @@
 ## Kleucio Claudio  
 _PhD Electrical Engineering_, _Bsc Applied and Computational Mathematics_
 
-### Current project: MONAN at INPE/CPTEC.
+### Current project: MONAN - LNCC/INPE.
 
 Interests:
 * Scientific Software Engineering
